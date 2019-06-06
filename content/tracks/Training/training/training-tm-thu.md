@@ -8,7 +8,7 @@ when_time    : ST-2
 description  : Training Threat Modeling (1st session)
 organizers   :
     - Steven Wierckx
-participants :
+participants :Olu Adekoya
 ---
 
 
